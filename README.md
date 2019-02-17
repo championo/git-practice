@@ -107,3 +107,5 @@ $ git checkout -b develop
 $ git commit -m "Add develop branch"
 $ git push -u gp develop
 ```
+
+* **Создание папки scripts в ветке develop, изменение .gitignore**
