@@ -95,3 +95,15 @@ $ git push -u gp master
 ```
 
 Далее некоторые команды будут опускаться, т.к. они уже освоены.
+
+* **Создание ветки develop и файла .gitignore**
+
+Создание ветки develop, являющейся ответвлением от ветки master
+```bash
+$ git checkout -b develop
+```
+После добавления файла .gitignore, отправляем данные на сервер
+```bash
+$ git commit -m "Add develop branch"
+$ git push -u gp develop
+```
