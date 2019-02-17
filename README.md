@@ -81,3 +81,17 @@ $ git commit -m "First commit"
 ```bash
 $ git push -u gp master
 ```
+
+### Шаг 2
+
+* **Создание файла LICENSE.md, фиксация изменений и отправка на сервер**
+
+Создаем в папке git-practice файл LICENSE.md. И напишем туда все что думаем о лицензии.
+```bash
+$ git add LICENSE.md
+$ git add README.md
+$ git commit -m "Add License file"
+$ git push -u gp master
+```
+
+Далее некоторые команды будут опускаться, т.к. они уже освоены.
