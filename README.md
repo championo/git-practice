@@ -109,3 +109,10 @@ $ git push -u gp develop
 ```
 
 * **Создание папки scripts в ветке develop, изменение .gitignore**
+
+* **Слияние веток master и develop**
+Внесем изменения в файл README.md в ветке develop. Отправим изменения на сервер и сольем ветки
+```bash
+$ git checkout master
+$ git merge develop
+```
