@@ -119,4 +119,4 @@ $ git merge develop
 
 * **Создание ветки jsbootstrap от develop, слияние с ней, удаление**
 
-* **Изученение fetch**
+* **Изученение fetch1111**
