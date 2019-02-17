@@ -116,3 +116,5 @@ $ git push -u gp develop
 $ git checkout master
 $ git merge develop
 ```
+
+* **Создание ветки jsbootstrap от develop, слияние с ней, удаление**
